@@ -1,0 +1,20 @@
+{
+  "name": "rtl-concurrent-each",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "@testing-library/react": "^13.3.0",
+    "babel": "^6.23.0",
+    "babel-jest": "^28.1.1",
+    "jest": "^28.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "jest-environment-jsdom": "^28.1.1"
+  }
+}
